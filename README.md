@@ -1,6 +1,6 @@
 <h1>🖐hello im nikan</h1>
 
-👨‍💻SoftEngineer sharing my journey and learning Tech.<br/>
+👨‍💻SoftWareEngineer sharing my journey and learning Tech.<br/>
 🎓Study in [Azad University of Sari](https://sari.iau.ir/en).<br/>
 🧭Learning at home and academy.<br/>
 🌓Currently learning FrontEnd Developing and designing.<br/>
