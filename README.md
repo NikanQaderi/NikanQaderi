@@ -38,18 +38,7 @@
 ### 🐍 Programming
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-
----
-
-## 📚 Currently Learning
-
-```text
-Next.js        ███████████████░░░░░
-TypeScript     █████████████░░░░░░░
-React          ████████████████░░░░
-UI/UX          ██████████████░░░░░░
-Web Development █████████████████░░░
-```
+![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge\&logo=csharp\&logoColor=white)
 
 ---
 
