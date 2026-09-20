@@ -28,8 +28,26 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+### 🧩 Frameworks
+
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
+
+### 🔌 APIs & Data
+
+![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-%235A29E4.svg?style=for-the-badge\&logo=axios\&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge\&logo=json\&logoColor=white)
+
+### 🛠️ Tools
+
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
+![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge\&logo=npm\&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-%234B32C3.svg?style=for-the-badge\&logo=eslint\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge\&logo=github\&logoColor=white)
 
 ### 🎨 Design
 
@@ -40,16 +58,6 @@
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge\&logo=csharp\&logoColor=white)
 
----
-
-## 🚀 What I'm Working On
-
-* ⚛️ Building modern React applications
-* ▲ Exploring Next.js and full-stack development
-* 🔷 Improving my TypeScript skills
-* 🎨 Designing interfaces and prototypes in Figma
-* 🧩 Building real-world projects to improve my development skills
-* 🤖 Exploring the possibilities of AI in web applications
 
 ---
 
